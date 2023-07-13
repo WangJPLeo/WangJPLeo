@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WangJPLeo)](https://github.com/WangJPLeo/github-readme-stats)
 -->
-
+<!--
 ![WangJPLeo's GitHub stats](https://github-readme-stats.vercel.app/api?username=WangJPLeo&show_icons=true&theme=tokyonight)
-
+-->
 <!--
 ![decription](https://img.shields.io/badge/tools-java-green)
 -->
